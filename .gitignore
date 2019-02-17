@@ -1,0 +1,13 @@
+out
+.idea
+input
+output
+
+*.xml
+*.iml
+*.class
+*.war
+*.aar
+*.txt
+*.wav
+*.mp3
